@@ -113,7 +113,7 @@
     <string name="kcal_reset">Reset</string>
 
     <!-- CustomSeekBarPreference -->
-    <string name="edit_value">Scegli nuovo valore</string>
+    <string name="edit_value">Scegli un nuovo valore</string>
     <string name="default_value">Valore di default</string>
     <string name="edit_hint">Valore tra %1$d e %2$d</string>
 </resources>
